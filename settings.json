@@ -1,6 +1,6 @@
 {
     "self_mode": false,
-	"autobio": true,
+	"autobio": false,
 	"msg_connected": false,
 	"user_register": true,
 	"anti_delete" : false,
@@ -9,7 +9,7 @@
 	"auto_leave_msg": false,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumberr": "6281249192779",
+	"ownerNumberr": "6285707708715",
 	"ownername": "ᴹᴿ᭄ Rizmy ×፝֟͜×",
 	"botname":"Rizzbot",
 	"thumb":"thumbnail_1.jpg",
