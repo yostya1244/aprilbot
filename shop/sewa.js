@@ -15,7 +15,7 @@ return `「 *PRICE LIST* 」
 
 
 ⬣ MINAT? PM
-⬡ wa.me/6285707708715
+⬡ wa.me/62895393373271
 
 
 NOTE : 
