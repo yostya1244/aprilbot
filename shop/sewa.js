@@ -4,8 +4,8 @@ return `「 *PRICE LIST* 」
 ⬣ PRICE SEWABOT
 
 ⬡ 1 HARI = Rp 2.000
-⬡ 1 MINGGU = Rp 5.000
-⬡ 1 BULAN = Rp 18.000
+⬡ 1 MINGGU = Rp 4.000
+⬡ 1 BULAN = Rp 7.000
 ⬡ PERMANEN = Rp 10.000
 
 
